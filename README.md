@@ -1,6 +1,5 @@
 ### Updated **README.md** with Code Creation Steps
 
-```markdown
 # RCP (Remote Call Protocol) Implementation
 
 This project demonstrates a simple client-server application implementing **Remote Call Protocol (RCP)** using Node.js (server) and React (client).
