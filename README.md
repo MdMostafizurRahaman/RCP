@@ -2,7 +2,6 @@
 
 This project demonstrates a simple client-server application implementing **Remote Call Protocol (RCP)** using Node.js (server) and React (client).
 
----
 
 ## **Setup Instructions**
 
